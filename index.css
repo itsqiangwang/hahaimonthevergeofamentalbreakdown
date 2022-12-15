@@ -58,12 +58,12 @@ html, body{
 }
 
 .labor-artworks:hover ~ .reddit-posts{
-    font-size: 36pt;
-    line-height: 45pt;
+    /* font-size: 36pt;
+    line-height: 45pt; */
 }
 
 .labor-artworks:hover ~ .reddit-posts .post{
-    margin: 60px;
+    /* margin: 60px; */
 }
 
 /* iframe{
@@ -187,8 +187,8 @@ p{
     padding: 0 30px;
     text-align: center;
     display: block;
-    font-size: 36pt;
-    line-height: 42pt;
+    font-size: 18pt;
+    line-height: 24pt;
 }
 
 .labor-artworks figure:hover figcaption:first-of-type{
